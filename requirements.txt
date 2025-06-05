@@ -1,0 +1,11 @@
+streamlit
+sentinelhub
+opencv-python
+joblib
+numpy
+folium
+geopy
+matplotlib
+pandas
+scikit-learn
+streamlit-folium
